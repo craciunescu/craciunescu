@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hello there, stranger 🚀
+![I am a broken link. Please report me to my owner!](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
+----
+
+I code from time to time. Shocker, right? I'm currently in between projects, so expect a pretty big mess in here. I'm also working on some non-coding stuff (starting a tech blog soon 💯).
+
+I'm a sucker for ice-cream, and I love climbing (I've never tried ice-cream __while__ climbing, now that I think about it 🍦🧗🏼‍♂️) Currently working at [Autentia](https://autentia.com) and preparing for technical interviews. [Reach out if you wanna talk about anything!](mailto:david.craciunescu@edu.uah.es)
 <!--
 **craciunescu/craciunescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
